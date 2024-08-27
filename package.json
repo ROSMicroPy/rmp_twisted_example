@@ -1,8 +1,8 @@
 {
   "urls": [
-    ["/rostype/Twist.py", "github:rosmicropy/rosmicropy/rmp_twisted_example/rostype/Twist.py"],
-    ["/TwistedPublisher.py", "github:rosmicropy/rosmicropy/rmp_twisted_example/TwistedPublisher.py"],
-    ["/TwistedSubscriber.py", "github:rosmicropy/rosmicropy/rmp_twisted_example/TwistedSubscriber.py"]
+    ["rostype/Twist.py", "github:rosmicropy/rosmicropy/rmp_twisted_example/rostype/Twist.py"],
+    ["TwistedPublisher.py", "github:rosmicropy/rosmicropy/rmp_twisted_example/TwistedPublisher.py"],
+    ["TwistedSubscriber.py", "github:rosmicropy/rosmicropy/rmp_twisted_example/TwistedSubscriber.py"]
   ],
   "version": "0.1"
 }
