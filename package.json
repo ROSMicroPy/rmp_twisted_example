@@ -7,5 +7,5 @@
     ["TwistedPublisher.py", "github:rosmicropy/rmp_twisted_example/TwistedPublisher.py"],
     ["TwistedSubscriber.py", "github:rosmicropy/rmp_twisted_example/TwistedSubscriber.py"]
   ],
-  "version": "0.2"
+  "version": "0.3"
 }
