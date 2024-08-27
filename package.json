@@ -1,7 +1,7 @@
 {
   "urls": [
     ["rostype/Twist.py", "github:rosmicropy/rmp_twisted_example/rostype/Twist.py"],
-    ["rostype/Twist.py", "github:rosmicropy/rmp_twisted_example/rostype/Vector3.py"],
+    ["rostype/Vector3.py", "github:rosmicropy/rmp_twisted_example/rostype/Vector3.py"],
 
     ["wifi.py", "github:rosmicropy/rmp_twisted_example/wifi.py"],
     ["TwistedPublisher.py", "github:rosmicropy/rmp_twisted_example/TwistedPublisher.py"],
