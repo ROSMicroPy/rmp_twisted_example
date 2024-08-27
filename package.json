@@ -1,11 +1,11 @@
 {
   "urls": [
-    ["/rostype/Twist.py", "github:rosmicropy/rmp_twisted_example/rostype/Twist.py"],
-    ["/rostype/Twist.py", "github:rosmicropy/rmp_twisted_example/rostype/Vector3.py"],
+    ["rostype/Twist.py", "github:rosmicropy/rmp_twisted_example/rostype/Twist.py"],
+    ["rostype/Twist.py", "github:rosmicropy/rmp_twisted_example/rostype/Vector3.py"],
 
-    ["/wifi.py", "github:rosmicropy/rmp_twisted_example/wifi.py"],
-    ["/TwistedPublisher.py", "github:rosmicropy/rmp_twisted_example/TwistedPublisher.py"],
-    ["/TwistedSubscriber.py", "github:rosmicropy/rmp_twisted_example/TwistedSubscriber.py"]
+    ["wifi.py", "github:rosmicropy/rmp_twisted_example/wifi.py"],
+    ["TwistedPublisher.py", "github:rosmicropy/rmp_twisted_example/TwistedPublisher.py"],
+    ["TwistedSubscriber.py", "github:rosmicropy/rmp_twisted_example/TwistedSubscriber.py"]
   ],
   "version": "0.2"
 }
